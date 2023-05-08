@@ -1,0 +1,8 @@
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\bin\Debug\Futbol_Oyunu.exe.config
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\bin\Debug\Futbol_Oyunu.exe
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\bin\Debug\Futbol_Oyunu.pdb
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\obj\Debug\Futbol_Oyunu.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\obj\Debug\Futbol_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\obj\Debug\Futbol_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\obj\Debug\Futbol_Oyunu.exe
+C:\Users\w10\Desktop\c#\C#_Projeler\Futbol_Oyunu\Futbol_Oyunu\obj\Debug\Futbol_Oyunu.pdb
